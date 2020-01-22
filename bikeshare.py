@@ -5,7 +5,10 @@ import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
-              'washington': 'washington.csv' }
+              'washington': 'washington.csv',
+	      'los angeles': 'los_angeles.csv',
+              'san francisco': 'san_francisco.csv',
+              'san diego': 'san_diego.csv' }
 months = ['all', 'january', 'feruary', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'octorber', 'november', 'december']
 days = ['all', 'sunday', 'monday', 'tuesday', 'wendesday', 'thursday', 'friday', 'saturday']
 
